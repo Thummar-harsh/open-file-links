@@ -1,3 +1,3 @@
 # open-file-links
 
-#https://www.tradingview.com/charting-library-docs/v26/trading_terminal/news/News-Api-Examples/
+#https://docs.google.com/document/d/1PnF2gnxixD5sopE-bEIulj-_jBcSGGOC2GkNXv8G2dg/edit?usp=sharing
